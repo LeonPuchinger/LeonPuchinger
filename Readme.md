@@ -9,9 +9,13 @@
 ## Application Development
 
 - [Rouge Studio](https://github.com/LeonPuchinger/rouge-studio): The web-based development environment for the [Rouge](https://github.com/LeonPuchinger/rouge) programming language
-- [Jackie Notes](https://github.com/LeonPuchinger/jackie_notes) A cross-platform handwritten note-taking app written in Flutter
-- [PaceMap](https://github.com/LeonPuchinger/pacemap) An offline app for live-tracking endurance athletes on a map using GPX data
+- [Jackie Notes](https://github.com/LeonPuchinger/jackie_notes): A cross-platform handwritten note-taking app written in Flutter
+- [PaceMap](https://github.com/LeonPuchinger/pacemap): An offline app for live-tracking endurance athletes on a map using GPX data
 
 ## Technical Writing
 
-- [Rouge Docs](https://github.com/LeonPuchinger/rouge-docs) The documentation for the [Rouge](https://github.com/LeonPuchinger/rouge) programming language, separated into versions for beginners, experienced developers, and contributors
+- [Rouge Docs](https://github.com/LeonPuchinger/rouge-docs): The documentation for the [Rouge](https://github.com/LeonPuchinger/rouge) programming language, separated into versions for beginners, experienced developers, and contributors
+
+## Cloud
+
+- [ULR Shortener](https://github.com/LeonPuchinger/url_shortener_gcp): A serverless URL-shortener running on the Google Cloud Platform (GCP)
